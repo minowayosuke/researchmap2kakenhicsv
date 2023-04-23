@@ -47,9 +47,9 @@ Researchmapにログインして、エクスポート画面にすすみます。
 例えば
 
 >"発表花子, 山田太郎",テスト発表について,テスト学会,2012,2012,1,0
-
+>
 >山田太郎,テスト発表について2,テスト学会2,2019,2019,0,0
-
+>
 >"Taro Yamada, Hanako Happyo",On a mock presentation, International conference of parody science,2018,2019,1,1
 
 のような内容でしょう。
